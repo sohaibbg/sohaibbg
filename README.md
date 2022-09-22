@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Sohaib+Baig!;I+develop+cross-platform+apps!;Check+out+my+projects+below!&duration=2000)
 
 - 💪 I have 2 years of experience in app development
-- 🔭 I’m currently working on my passion project of tracking Karachi's buses
+- 🔭 I’m currently working on my passion project of [tracking Karachi's chaotic bus network](https://github.com/sohaibbg/pointr)
 - 🌱 I’m currently learning NodeJS and Jira
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<sohaibbg@gmail.com>)
