@@ -34,8 +34,8 @@
   </tr>
   <tr>
     <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191821339-4637d418-ed7d-48ca-ba95-7288bc92d192.gif" width=190 height=190></td>
-    <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191821489-6d9da49c-8236-44db-be7f-2aa50646009f.gif" width=190 height=190></td>
-    <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191821906-f4f44589-49c2-49aa-9a89-60b1b09c6056.gif" width=190 height=190></td>
+    <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191821489-6d9da49c-8236-44db-be7f-2aa50646009f.gif" width=95 height=190></td>
+    <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191821906-f4f44589-49c2-49aa-9a89-60b1b09c6056.gif" width=95 height=190></td>
   </tr>
   <tr>
     <td>Wopecar, an app for booking cars and renting them out online.</td>
