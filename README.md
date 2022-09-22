@@ -24,13 +24,13 @@
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
-### 🖥️ Mobile Apps Developed
-#### Flutter, Google Maps API, Payments API, ReceiptS Printing API
+### 📱 Mobile Apps Developed
+#### Flutter, Google Maps API, Payments API, Receipts Printing API
 <table>
   <tr>
     <td align="Center">Wopecar</td>
     <td align="Center">Ziyka Restaurant</td>
-    <td align="Center">Pointr</td>
+    <td href="https://github.com/sohaibbg/pointr" align="Center">Pointr</td>
   </tr>
   <tr>
     <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191821339-4637d418-ed7d-48ca-ba95-7288bc92d192.gif" width=95 height=190></td>
@@ -41,6 +41,24 @@
     <td>Wopecar, an app for booking cars and renting them out online.</td>
     <td>Ziyka Restaurant, for co-ordinating online deliveries</td>
     <td>Pointr, displays the most appropriate bus route to take for any journey in Karachi</td>
+  </tr>
+</table>
+
+### 🖥️ Other Projects
+
+#### Flutter, MySQL, Java
+<table>
+  <tr>
+    <td href="https://github.com/sohaibbg/asset_management_app/" align="Center">Inventory Management System</td>
+    <td align="Center">Java Virtual Machine</td>
+  </tr>
+  <tr>
+    <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191829140-2ac100d3-14ab-425d-b8e1-c166aff84a11.gif)" width=338 height=190></td>
+    <td align="Center"></td>
+  </tr>
+  <tr>
+    <td>Inventory Management System, allows organizations to record and manage assets assigned to employees</td>
+    <td>Java Virtual Machine, Implements a complete instruction set with scheduler functionality in Java.</td>
   </tr>
 </table>
 
