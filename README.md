@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my passion project of tracking Karachi's buses
 - 🌱 I’m currently learning NodeJS and Jira
 - 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-- ⚡ Portfolio PDF: ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+- ⚡ View my ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 ### Operating Systems:
 
@@ -20,19 +20,27 @@
     </a>
     <!-- Mac -->
     <a href="https://www.apple.com/macos" target="_blank"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/MacOS_logo.svg" alt="macOS" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/apple.svg" alt="macOS" width="40" height="40"/>
     </a>
 </p>
 
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-
 ### Tools:
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<p align="start">
+    <!-- Git -->
+    <a href="https://git-scm.com/" target="_blank"> 
+        <img src="https://commons.wikimedia.org/wiki/File:Git_icon.svg" alt="Git" width="40" height="40"/>
+    </a>
+    <!-- VS Code -->
+    <a href="https://www.ubuntu.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="VS Code" width="40" height="40"/>
+    </a>
+    <!-- Postman -->
+    <a href="https://www.apple.com/macos" target="_blank"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/apple.svg" alt="Postman" width="40" height="40"/>
+    </a>
+</p>
 
 <!--
 **sohaibbg/sohaibbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
