@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Sohaib+Baig;I+develop+apps+for+mobile,+desktop+and+the+Web!!;Check+out+my+projects+below!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Sohaib+Baig;I+develop+cross-platform+apps!!;Check+out+my+projects+below!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 <!--
 **sohaibbg/sohaibbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
