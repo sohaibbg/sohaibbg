@@ -23,11 +23,11 @@
     </a>
     <!-- Android -->
     <a href="https://www.android.com/" target="_blank"> 
-        <img src="https://worldvectorlogo.com/download/android.svg" alt="Android" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="Android" width="40" height="40"/>
     </a>
     <!-- iOS -->
     <a href="https://www.apple.com/iOS" target="_blank"> 
-        <img src="https://worldvectorlogo.com/download/ios-2.svg" alt="iOS" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/ios-2.svg" alt="iOS" width="40" height="40"/>
     </a>
 </p>
 
