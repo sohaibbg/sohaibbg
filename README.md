@@ -1,7 +1,9 @@
 <p>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Sohaib+Baig!;I+develop+cross-platform+apps!;Check+out+my+projects+below!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Sohaib+Baig!;I+develop+cross-platform+apps!;Check+out+my+projects+below!;&font=Fira%20Code&center=true&width=380&height=50&pause=1000">
 </p>
-
+```md
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+```
 - 🔭 I’m currently working on my passion project of tracking Karachi's buses
 - 🌱 I’m currently learning NodeJS and Jira
 - 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
