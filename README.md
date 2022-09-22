@@ -1,8 +1,5 @@
-```
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi there!+I'm%20a%20SW%20Developer%20with%202%20years%20of%20experience%20in%20frontend%20and%20backend%20development.)](https://git.io/typing-svg)
-```
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi there!+I'm%20a%20SW%20Developer%20with%202%20years%20of%20experience%20in%20frontend%20and%20backend%20development.">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Sohaib+Baig;I+develop+apps+for+mobile,+desktop+and+the+Web!!;Check+out+my+projects+below!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 <!--
 **sohaibbg/sohaibbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
