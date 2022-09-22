@@ -53,7 +53,7 @@
     <td align="Center">Java Virtual Machine</td>
   </tr>
   <tr>
-    <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191829140-2ac100d3-14ab-425d-b8e1-c166aff84a11.gif)" width=338 height=190></td>
+    <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191829140-2ac100d3-14ab-425d-b8e1-c166aff84a11.gif" width=338 height=190></td>
     <td align="Center"></td>
   </tr>
   <tr>
