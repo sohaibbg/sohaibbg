@@ -4,9 +4,7 @@
 - 🔭 I’m currently working on my passion project of tracking Karachi's buses
 - 🌱 I’m currently learning NodeJS and Jira
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohaibbaig1/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<sohaibbg@gmail.com>)
-[Resume](https://drive.google.com/file/d/1Plzj0PQFgYwYlKlzk4p5eLv1_w68SrHL/view?usp=sharing) [Portfolio](https://drive.google.com/file/d/129A75w87XC5eZY_-BIeTuy3fH7cquI8A/view?usp=sharing)
 
 ### Technology Stack:
 
@@ -26,6 +24,7 @@
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohaibbaig1/)
 
 ### Operating Systems:
 
