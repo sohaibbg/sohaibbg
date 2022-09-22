@@ -30,7 +30,7 @@
   <tr>
     <td align="Center">Wopecar</td>
     <td align="Center">Ziyka Restaurant</td>
-    <td align="Center">[Pointr](https://github.com/sohaibbg/pointr)</td>
+    <td align="Center"><a href="https://github.com/sohaibbg/pointr">Pointr</a></td>
   </tr>
   <tr>
     <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191821339-4637d418-ed7d-48ca-ba95-7288bc92d192.gif" width=95 height=190></td>
@@ -49,7 +49,7 @@
 #### Flutter, MySQL, Java
 <table>
   <tr>
-    <td href="https://github.com/sohaibbg/asset_management_app/" align="Center">[Inventory Management System](https://github.com/sohaibbg/asset_management_app)</td>
+    <td align="Center"><a href="https://github.com/sohaibbg/asset_management_app/">Inventory Management System</a></td>
     <td align="Center">Java Virtual Machine</td>
   </tr>
   <tr>
