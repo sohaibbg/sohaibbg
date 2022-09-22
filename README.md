@@ -2,9 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Sohaib+Baig!;I+develop+cross-platform+apps!;Check+out+my+projects+below!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
-## Operating Systems, Tools
-
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+### Operating Systems, Tools
+# Oper
+Oper
+Opera ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
