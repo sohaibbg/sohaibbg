@@ -1,8 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Sohaib+Baig!;I+develop+cross-platform+apps!;Check+out+my+projects+below!&duration=2000)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Sohaib+Baig!;I+develop+cross-platform+apps!;Check+out+my+projects+below!&duration=2000)
 
 - 🔭 I’m currently working on my passion project of tracking Karachi's buses
 - 🌱 I’m currently learning NodeJS and Jira
-- 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- 💪 I have 2 years of experience in Flutter (Android, iOS and Windows)
+- 📫 Reach me at: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohaibbaig1/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sohaibbg@gmail.com)
 - ⚡ View my ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 ### Operating Systems:
