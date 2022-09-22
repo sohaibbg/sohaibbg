@@ -30,15 +30,15 @@
 <p align="start">
     <!-- Git -->
     <a href="https://git-scm.com/" target="_blank"> 
-        <img src="https://commons.wikimedia.org/wiki/File:Git_icon.svg" alt="Git" width="40" height="40"/>
+        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="40" height="40"/>
     </a>
     <!-- VS Code -->
-    <a href="https://www.ubuntu.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="VS Code" width="40" height="40"/>
+    <a href="https://code.visualstudio.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40"/>
     </a>
     <!-- Postman -->
-    <a href="https://www.apple.com/macos" target="_blank"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/apple.svg" alt="Postman" width="40" height="40"/>
+    <a href="https://www.postman.com" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
     </a>
 </p>
 
