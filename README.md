@@ -51,10 +51,6 @@
     <a href="https://www.figma.com" target="_blank"> 
         <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" width="40" height="40"/>
     </a>
-    <!-- Stripe -->
-    <a href="https://www.stripe.com" target="_blank"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" alt="Figma" width="40" height="40"/>
-    </a>
 </p>
 
 ### Technology Stack:
