@@ -53,7 +53,7 @@
     </a>
     <!-- Stripe -->
     <a href="https://www.stripe.com" target="_blank"> 
-        <img src="https://worldvectorlogo.com/download/stripe-4.svg" alt="Figma" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg" alt="Figma" width="40" height="40"/>
     </a>
 </p>
 
