@@ -24,6 +24,26 @@
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
+### 🖥️ Mobile Apps Developed
+#### Flutter, Google Maps API, Payments API, ReceiptS Printing API
+<table>
+  <tr>
+    <td align="Center">Wopecar</td>
+    <td align="Center">Ziyka Restaurant</td>
+    <td align="Center">Pointr</td>
+  </tr>
+  <tr>
+    <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191821339-4637d418-ed7d-48ca-ba95-7288bc92d192.gif" width=190 height=190></td>
+    <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191821489-6d9da49c-8236-44db-be7f-2aa50646009f.gif" width=190 height=190></td>
+    <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191821906-f4f44589-49c2-49aa-9a89-60b1b09c6056.gif" width=190 height=190></td>
+  </tr>
+  <tr>
+    <td>Wopecar, an app for booking cars and renting them out online.</td>
+    <td>Ziyka Restaurant, for co-ordinating online deliveries</td>
+    <td>Pointr, displays the most appropriate bus route to take for any journey in Karachi</td>
+  </tr>
+</table>
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohaibbaig1/)
 
 ### Operating Systems:
