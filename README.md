@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on my passion project of tracking Karachi's buses
 - 🌱 I’m currently learning NodeJS and Jira
 - 💪 I have 2 years of experience in Flutter (Android, iOS and Windows)
-- 📫 Reach me at: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohaibbaig1/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sohaibbg@gmail.com)
-- ⚡ View my ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+- 📫 Reach me at: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohaibbaig1/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<sohaibbg@gmail.com>)
+- ⚡ View my [Resume](https://drive.google.com/file/d/1Plzj0PQFgYwYlKlzk4p5eLv1_w68SrHL/view?usp=sharing) or [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://drive.google.com/file/d/129A75w87XC5eZY_-BIeTuy3fH7cquI8A/view?usp=sharing)
 
 ### Operating Systems:
 
