@@ -51,17 +51,19 @@
   </tr>
 </table>
 
-### 🖥️ Industrial/Academic/Personal Projects
+### 🖥️ Other Projects
 
 #### Flutter, MySQL, Java
 <table>
+
   <tr>
     <td align="Center"><a href="https://github.com/sohaibbg/asset_management_app/">Inventory Management System</a></td>
   </tr>
+  
   <tr>
     <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191829140-2ac100d3-14ab-425d-b8e1-c166aff84a11.gif" width=338 height=190></td>
-    <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191821906-f4f44589-49c2-49aa-9a89-60b1b09c6056.gif" width=95 height=190></td>
   </tr>
+  
   <tr>
     <td>Inventory Management System, allows organizations to record and manage assets assigned to employees
       <ul>
@@ -69,14 +71,18 @@
       </ul>
     </td>
   </tr>
+  
+
   <tr>
-    <td align="Center"><a href="https://github.com/sohaibbg/asset_management_app/">Inventory Management System</a></td>
+    <td align="Center">Java Virtual Machine</td>
     <td align="Center"><a href="https://github.com/sohaibbg/pointr">Pointr</a></td>
   </tr>
+  
   <tr>
-    <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191829140-2ac100d3-14ab-425d-b8e1-c166aff84a11.gif" width=338 height=190></td>
     <td align="Center"></td>
+    <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191821906-f4f44589-49c2-49aa-9a89-60b1b09c6056.gif" width=95 height=190></td>
   </tr>
+  
   <tr>
     <td>Java Virtual Machine, Implements a complete instruction set with scheduler functionality in Java.
       <ul>
@@ -90,6 +96,7 @@
       </ul>
     </td>
   </tr>
+  
 </table>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohaibbaig1/)
