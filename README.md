@@ -1,5 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Sohaib+Baig!;I+develop+cross-platform+apps!;Check+out+my+projects+below!&duration=2000)
 
+- 🕦 I'm looking to join a workplace immediately
 - 💪 I have 2 years of experience in app development
 - 🔭 I’m currently working on my passion project of [tracking Karachi's chaotic bus network](https://github.com/sohaibbg/pointr)
 - 🌱 I’m currently learning NodeJS and Jira
