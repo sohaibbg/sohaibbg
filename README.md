@@ -55,17 +55,15 @@
 
 #### Flutter, MySQL, Java
 <table>
-
-  <tr colspan="2">
-    <td align="Center"><a href="https://github.com/sohaibbg/asset_management_app/">Inventory Management System</a></td>
+  <tr>
+    <td colspan="2" align="Center"><a href="https://github.com/sohaibbg/asset_management_app/">Inventory Management System</a></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="Center"><img src="https://user-images.githubusercontent.com/66072484/191829140-2ac100d3-14ab-425d-b8e1-c166aff84a11.gif" width=338 height=190></td>
   </tr>
   
-  <tr colspan="2">
-    <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191829140-2ac100d3-14ab-425d-b8e1-c166aff84a11.gif" width=338 height=190></td>
-  </tr>
-  
-  <tr colspan="2">
-    <td>Inventory Management System, allows organizations to record and manage assets assigned to employees
+  <tr>
+    <td colspan="2">Inventory Management System, allows organizations to record and manage assets assigned to employees
       <ul>
         <li>Deployed at Dawlance's factory within the MIS department</li>
       </ul>
