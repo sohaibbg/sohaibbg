@@ -30,12 +30,10 @@
   <tr>
     <td align="Center">Wopecar</td>
     <td align="Center">Ziyka Restaurant</td>
-    <td align="Center"><a href="https://github.com/sohaibbg/pointr">Pointr</a></td>
   </tr>
   <tr>
     <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191821339-4637d418-ed7d-48ca-ba95-7288bc92d192.gif" width=95 height=190></td>
     <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191821489-6d9da49c-8236-44db-be7f-2aa50646009f.gif" width=95 height=190></td>
-    <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191821906-f4f44589-49c2-49aa-9a89-60b1b09c6056.gif" width=95 height=190></td>
   </tr>
   <tr>
     <td>Wopecar, an app for booking cars and renting them out online.
@@ -50,26 +48,19 @@
         <li>Developed with IntWish for an Australian client</li>
       </ul>
     </td>
-    <td>Pointr, displays the most appropriate bus route to take for any journey in Karachi
-      <ul>
-        <li>State management: Provider</li>
-        <li>Passion project for all Karachiites</li>
-      </ul>
-    </td>
   </tr>
 </table>
 
-### 🖥️ Other Projects
+### 🖥️ Industrial/Academic/Personal Projects
 
 #### Flutter, MySQL, Java
 <table>
   <tr>
     <td align="Center"><a href="https://github.com/sohaibbg/asset_management_app/">Inventory Management System</a></td>
-    <td align="Center">Java Virtual Machine</td>
   </tr>
   <tr>
     <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191829140-2ac100d3-14ab-425d-b8e1-c166aff84a11.gif" width=338 height=190></td>
-    <td align="Center"></td>
+    <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191821906-f4f44589-49c2-49aa-9a89-60b1b09c6056.gif" width=95 height=190></td>
   </tr>
   <tr>
     <td>Inventory Management System, allows organizations to record and manage assets assigned to employees
@@ -77,9 +68,25 @@
         <li>Deployed at Dawlance's factory within the MIS department</li>
       </ul>
     </td>
+  </tr>
+  <tr>
+    <td align="Center"><a href="https://github.com/sohaibbg/asset_management_app/">Inventory Management System</a></td>
+    <td align="Center"><a href="https://github.com/sohaibbg/pointr">Pointr</a></td>
+  </tr>
+  <tr>
+    <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191829140-2ac100d3-14ab-425d-b8e1-c166aff84a11.gif" width=338 height=190></td>
+    <td align="Center"></td>
+  </tr>
+  <tr>
     <td>Java Virtual Machine, Implements a complete instruction set with scheduler functionality in Java.
       <ul>
         <li>Developed as a 4-member team for a CS Operating Systems course at the IBA</li>
+      </ul>
+    </td>
+    <td>Pointr, displays the most appropriate bus route to take for any journey in Karachi
+      <ul>
+        <li>State management: Provider</li>
+        <li>Passion project for all Karachiites</li>
       </ul>
     </td>
   </tr>
