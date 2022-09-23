@@ -38,9 +38,24 @@
     <td align="Center"><img src="https://user-images.githubusercontent.com/66072484/191821906-f4f44589-49c2-49aa-9a89-60b1b09c6056.gif" width=95 height=190></td>
   </tr>
   <tr>
-    <td>Wopecar, an app for booking cars and renting them out online.</td>
-    <td>Ziyka Restaurant, for co-ordinating online deliveries</td>
-    <td>Pointr, displays the most appropriate bus route to take for any journey in Karachi</td>
+    <td>Wopecar, an app for booking cars and renting them out online.
+      <ul>
+        <li>State management: GetX</li>
+        <li>Freelance for Ghanaian client (Africa)</li>
+      </ul>
+    </td>
+    <td>Ziyka Restaurant, for co-ordinating online deliveries
+      <ul>
+        <li>State mangement: GetX</li>
+        <li>Developed with IntWish for an Australian client</li>
+      </ul>
+    </td>
+    <td>Pointr, displays the most appropriate bus route to take for any journey in Karachi
+      <ul>
+        <li>State management: Provider</li>
+        <li>Passion project for all Karachiites</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
@@ -57,8 +72,16 @@
     <td align="Center"></td>
   </tr>
   <tr>
-    <td>Inventory Management System, allows organizations to record and manage assets assigned to employees</td>
-    <td>Java Virtual Machine, Implements a complete instruction set with scheduler functionality in Java.</td>
+    <td>Inventory Management System, allows organizations to record and manage assets assigned to employees
+      <ul>
+        <li>Deployed at Dawlance's factory within the MIS department</li>
+      </ul>
+    </td>
+    <td>Java Virtual Machine, Implements a complete instruction set with scheduler functionality in Java.
+      <ul>
+        <li>Developed as a 4-member team for a CS Operating Systems course at the IBA</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
