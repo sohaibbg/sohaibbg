@@ -1,9 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Sohaib+Baig!;I+develop+cross-platform+apps!;Check+out+my+projects+below!&duration=2000)
 
-- 🕦 I'm looking to join a workplace immediately
+- 🕦 Working as SW Dev at <a href="https://www.mymintrewards.com/">Mint Rewards</a>
 - 💪 I have 2 years of experience in app development
 - 🔭 I’m currently working on my passion project of [tracking Karachi's chaotic bus network](https://github.com/sohaibbg/pointr)
-- 🌱 I’m currently learning NodeJS and Jira
+- 🌱 I’m currently learning Kotlin
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<sohaibbg@gmail.com>)
 
@@ -16,7 +16,6 @@
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)](https://www.firebase.google.com/)
 [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=ffffff)](https://www.rabbitmq.com/)
 
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
