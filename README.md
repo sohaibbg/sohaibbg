@@ -1,3 +1,5 @@
+For anyone that may care, my contribution graph is split between this github account and [sohaib-sap](https://github.com/sohaib-sap).
+
 Studying Information Systems, Software Engineering, Distributed and Networked Systems at RPTU Kaiserslautern. Masters in Computer Science.
 In my 5th year of working with software systems. I love systems, abstractions and thinking in terms of lowering cognitive load.
 
